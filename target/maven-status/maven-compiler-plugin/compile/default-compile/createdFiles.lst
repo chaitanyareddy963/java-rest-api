@@ -1,0 +1,5 @@
+com\kaiburr\controller\TaskController.class
+com\kaiburr\task_api\TaskApiApplication.class
+com\kaiburr\repository\TaskRepository.class
+com\kaiburr\model\Task.class
+com\kaiburr\model\TaskExecution.class
